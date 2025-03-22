@@ -38,6 +38,6 @@
 ## Fast Links Software
 ### ✔ Done | ❌ To Do
 | Part | Link |
-| ------------ | ----- | 
+| ------------ | ----- | ----- |
 | Shaketune |  [Link](https://github.com/Frix-x/klippain-shaketune) |
 | Motorsync | link comming Soon |
