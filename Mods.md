@@ -12,9 +12,11 @@
 | Motor Mount FR | link comming Soon | ✔ | 
 | Motor Mount Back | link comming Soon | ✔ | 
 | Wire/PTFE Arm | link comming Soon | ✔ | 
-| Nozzle Brush Holder | link comming Soon | ✔ | 
-| Nozzle Brush Arm | link comming Soon | ✔ | 
-| Nozzle Brush Bucket | link comming Soon | ✔ | 
+| SB PG7 Mount | link comming Soon | ✔ |
+| PTFE Guide | [Link](https://www.printables.com/model/460621-voron-trident-ptfe-guides) | ❌ | 
+| Nozzle Brush Holder | [Link](https://www.printables.com/model/806589-bambu-a1-silicone-nozzle-scrubber-mount-remix-voro) | ✔ | 
+| Nozzle Brush Arm | [Link](https://www.printables.com/model/298565-nozzle-scrubber-arm-extension-voron-trident) | ✔ | 
+| Nozzle Brush Bucket | [Link](https://www.printables.com/model/482581-purge-bucket-bin-for-use-with-nozzle-scrubber) | ❌ | 
 | Wobble X | link comming Soon | ❌ | 
 | Stepper Fan Holder | link comming Soon | ❌ | 
 | Neopixel Holder | link comming Soon | ❌ | 
@@ -41,6 +43,11 @@
 | 2020 Cable Covers | [Link](https://de.aliexpress.com/item/1005003222704634.html?spm=a2g0o.order_list.order_list_main.23.69bf5c5fVq2jw2&gatewayAdapt=glo2deu) | ⚪ |
 | Corner Brackets (2040) | [Link](https://de.aliexpress.com/item/1005002645302252.html?spm=a2g0o.order_list.order_list_main.106.69bf5c5fVq2jw2&gatewayAdapt=glo2deu) | ⚪ |
 | Grounding Extruder | -- | ✔ |
+| Buck Converter Neopixels | link comming Soon | ❌ |
+| X Beam | link comming Soon | ❌ |
+| X Rail | link comming Soon | ❌ |
+
+
 
 ## Fast Links Software
 ### ✔ Done | ❌ To Do
