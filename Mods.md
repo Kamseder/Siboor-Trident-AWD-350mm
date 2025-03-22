@@ -23,7 +23,8 @@
 ## Fast Links Bought Hardware
 ### ✔ Done | ❌ To Do
 | Part | Link |
-| PTFE Tube ID3/OD4 | ----- | 
+| ------------ | ----- | 
+| PTFE Tube ID3/OD4 | link comming Soon  | 
 | Extruder Gears |  link comming Soon |
 | Nozzle Brush | link comming Soon |
 | 370MM Neopixels | link comming Soon |
