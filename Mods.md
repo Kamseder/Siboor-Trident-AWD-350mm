@@ -57,5 +57,6 @@
 | Motorsync | [Link](https://github.com/MRX8024/motors-sync) | ✔ |
 | Custom Start/Shutdown | -- | ✔ |
 | Recode everything | -- | ✔ |
+| Add Chamber Thermistor to Klipper Screen | -- | ✔ |
 
 
