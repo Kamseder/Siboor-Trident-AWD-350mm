@@ -37,7 +37,7 @@
 
 ## Fast Links Software
 ### ✔ Done | ❌ To Do
-| Part | Link |
+| Part | Link | Status |
 | ------------ | ----- | ----- |
 | Shaketune |  [Link](https://github.com/Frix-x/klippain-shaketune) | ✔ |
 | Motorsync | link comming Soon | ✔ |
