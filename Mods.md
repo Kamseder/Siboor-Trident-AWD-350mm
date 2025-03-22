@@ -21,6 +21,7 @@
 
 
 ## Fast Links Bought Hardware
+### ✔ Done | ❌ To Do
 | Part | Link |
 | PTFE Tube ID3/OD4 | ----- | 
 | Extruder Gears |  link comming Soon |
@@ -34,6 +35,7 @@
 | Chamber Thermistor | link comming Soon |
 
 ## Fast Links Software
+### ✔ Done | ❌ To Do
 | Part | Link |
 | ------------ | ----- | 
 | Shaketune |  link comming Soon |
