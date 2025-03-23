@@ -11,15 +11,20 @@
 | Motor Mount FL | link comming Soon | ✔ | 
 | Motor Mount FR | link comming Soon | ✔ | 
 | Motor Mount Back | link comming Soon | ✔ | 
-| Wire/PTFE Arm | link comming Soon | ✔ | 
-| SB PG7 Mount | link comming Soon | ✔ |
+| Meanwell Connections Cover | [Link](https://www.printables.com/model/834209-power-supply-cover?lang=de) | ✔ |
+| Meanwell Top Cover | [Link](https://www.printables.com/model/392418-mean-well-lrs-350-psu-lid-for-92mm-noctua-fan-92x9) | ✔ |
+| Wire/PTFE Arm | [Link](https://www.printables.com/model/514848-cable-arm-for-vorontrident?lang=de) | ✔ | 
+| Canbus PTFE Clamp | [Link](https://www.printables.com/model/445945-voron-cable-clamp-umbilical-mod-canbus/files) | ✔ |
+| SB PG7 Mount | [Link](https://www.printables.com/model/964357-sb2209-sb2240-cw2-cable-bridge-pg7) | ✔ |
 | PTFE Guide | [Link](https://www.printables.com/model/460621-voron-trident-ptfe-guides) | ❌ | 
 | Nozzle Brush Holder | [Link](https://www.printables.com/model/806589-bambu-a1-silicone-nozzle-scrubber-mount-remix-voro) | ✔ | 
 | Nozzle Brush Arm | [Link](https://www.printables.com/model/298565-nozzle-scrubber-arm-extension-voron-trident) | ✔ | 
 | Nozzle Brush Bucket | [Link](https://www.printables.com/model/482581-purge-bucket-bin-for-use-with-nozzle-scrubber) | ❌ | 
-| Wobble X | link comming Soon | ❌ | 
+| Wobble X | [Link](https://www.printables.com/model/460649-voron-trident-front-wobblex-carriers/files) | ❌ | 
+| Skirt Fan inner Cover | [Link](https://makerworld.com/en/models/424868-voron-logo-40mm-fan-grill-fan-protector#profileId-328560) | ❌ | 
 | Stepper Fan Holder | link comming Soon | ❌ | 
 | Neopixel Holder | link comming Soon | ❌ | 
+| Panel Mounting | link comming Soon | ❌ |
 
 
 
