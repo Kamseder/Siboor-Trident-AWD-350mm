@@ -60,7 +60,7 @@
 | ------------ | ----- | ----- |
 | Shaketune |  [Link](https://github.com/Frix-x/klippain-shaketune) | ✔ |
 | Motorsync | [Link](https://github.com/MRX8024/motors-sync) | ✔ |
-| Custom Start/Shutdown | -- | ✔ |
+| Custom Start/Shutdown Logo | -- | ✔ |
 | Recode everything | -- | ✔ |
 | Add Chamber Thermistor to Klipper Screen | -- | ✔ |
 
