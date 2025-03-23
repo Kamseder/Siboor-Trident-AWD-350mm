@@ -11,7 +11,7 @@
 | Motor Mount FL | link comming Soon | ✔ | 
 | Motor Mount FR | link comming Soon | ✔ | 
 | Motor Mount Back | link comming Soon | ✔ | 
-| Meanwell Connections Cover | [Link](https://www.printables.com/model/834209-power-supply-cover?lang=de) | ✔ |
+| Meanwell Terminal Cover | [Link](https://www.printables.com/model/834209-power-supply-cover?lang=de) | ✔ |
 | Meanwell Top Cover | [Link](https://www.printables.com/model/392418-mean-well-lrs-350-psu-lid-for-92mm-noctua-fan-92x9) | ✔ |
 | Wire/PTFE Arm | [Link](https://www.printables.com/model/514848-cable-arm-for-vorontrident?lang=de) | ✔ | 
 | Canbus PTFE Clamp | [Link](https://www.printables.com/model/445945-voron-cable-clamp-umbilical-mod-canbus/files) | ✔ |
