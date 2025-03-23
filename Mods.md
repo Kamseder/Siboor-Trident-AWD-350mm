@@ -63,5 +63,6 @@
 | Custom Start/Shutdown Logo | -- | ✔ |
 | Recode everything | -- | ✔ |
 | Add Chamber Thermistor to Klipper Screen | -- | ✔ |
+| Spoolman | -- | ❌ |
 
 
