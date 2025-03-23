@@ -7,7 +7,7 @@
 | Clean Wire Cover Left/Right |  link comming Soon | ✔ |
 | Bed Fan Plug Cover | link comming Soon | ✔ | 
 | PG7 Corner Bracket | link comming Soon | ✔ | 
-| Thermistor Holder | link comming Soon | ❌ | 
+| Thermistor Holder | link comming Soon | ✔ | 
 | Motor Mount FL | link comming Soon | ✔ | 
 | Motor Mount FR | link comming Soon | ✔ | 
 | Motor Mount Back | link comming Soon | ✔ | 
@@ -19,9 +19,9 @@
 | PTFE Guide | [Link](https://www.printables.com/model/460621-voron-trident-ptfe-guides) | ❌ | 
 | Nozzle Brush Holder | [Link](https://www.printables.com/model/806589-bambu-a1-silicone-nozzle-scrubber-mount-remix-voro) | ✔ | 
 | Nozzle Brush Arm | [Link](https://www.printables.com/model/298565-nozzle-scrubber-arm-extension-voron-trident) | ✔ | 
-| Nozzle Brush Bucket | [Link](https://www.printables.com/model/482581-purge-bucket-bin-for-use-with-nozzle-scrubber) | ❌ | 
+| Nozzle Brush Bucket | [Link](https://www.printables.com/model/482581-purge-bucket-bin-for-use-with-nozzle-scrubber) | ✔ | 
 | Wobble X | [Link](https://www.printables.com/model/460649-voron-trident-front-wobblex-carriers/files) | ❌ | 
-| Skirt Fan inner Cover | [Link](https://makerworld.com/en/models/424868-voron-logo-40mm-fan-grill-fan-protector#profileId-328560) | ❌ | 
+| Skirt Fan inner Cover | [Link](https://makerworld.com/en/models/424868-voron-logo-40mm-fan-grill-fan-protector#profileId-328560) | ✔ | 
 | Stepper Fan Holder | link comming Soon | ❌ | 
 | Neopixel Holder | link comming Soon | ❌ | 
 | Panel Mounting | link comming Soon | ❌ |
