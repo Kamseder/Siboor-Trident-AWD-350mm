@@ -1,6 +1,6 @@
 # Siboor Trident AWD 350mm Mods
 
-## Fast Links Print Hardware
+## Fast Links Prints 
 ### ✔ Done | ❌ Need to Print | ⚪ Need to Design
 | Part | Link | Status |
 | ------------ | ----- | ----- | 
@@ -28,7 +28,7 @@
 
 
 
-## Fast Links Bought Hardware
+## Fast Links Hardware
 ### ✔ Done | ❌ To Do | ⚪ Bought not Installed
 | Part | Link | Status |
 | ------------ | ----- | ----- | 
