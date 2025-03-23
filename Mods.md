@@ -4,7 +4,7 @@
 ### ✔ Done | ❌ Need to Print | ⚪ Need to Design
 | Part | Link | Status |
 | ------------ | ----- | ----- | 
-| Clean Wire Cover |  link comming Soon | ✔ |  
+| Clean Wire Cover Left/Right |  link comming Soon | ✔ |
 | Bed Fan Plug Cover | link comming Soon | ✔ | 
 | PG7 Corner Bracket | link comming Soon | ✔ | 
 | Thermistor Holder | link comming Soon | ❌ | 
