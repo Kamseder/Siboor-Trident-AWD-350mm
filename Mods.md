@@ -7,7 +7,7 @@
 | Clean Wire Cover Left/Right |  link comming Soon | ✔ |
 | Bed Fan Plug Cover | link comming Soon | ✔ | 
 | PG7 Corner Bracket | link comming Soon | ✔ | 
-| Thermistor Holder | link comming Soon | ✔ | 
+| Thermistor Holder | link comming Soon | ❌ | 
 | Motor Mount FL | link comming Soon | ✔ | 
 | Motor Mount FR | link comming Soon | ✔ | 
 | Motor Mount Back | link comming Soon | ✔ | 
