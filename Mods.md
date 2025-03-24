@@ -37,7 +37,7 @@
 | Extruder Gears (Set3) |  [Link](https://de.aliexpress.com/item/1005005494849351.html?spm=a2g0o.order_list.order_list_main.93.69bf5c5fVq2jw2&gatewayAdapt=glo2deu) | ✔ |
 | Nozzle Brush | [Link](https://de.aliexpress.com/item/1005007502073121.html?spm=a2g0o.order_list.order_list_main.271.69bf5c5fVq2jw2&gatewayAdapt=glo2deu) | ✔ |
 | 370MM Neopixels RGB | [Link](https://de.aliexpress.com/item/1005006177060472.html?spm=a2g0o.order_detail.order_detail_item.9.778a6368XgehZu&gatewayAdapt=glo2deu) | ⚪ |
-| SB Neopixels | [Link](https://de.aliexpress.com/item/1005007646205279.html?spm=a2g0o.order_list.order_list_main.100.69bf5c5fVq2jw2&gatewayAdapt=glo2deu) | ⚪ |
+| SB Neopixels | [Link](https://de.aliexpress.com/item/1005007646205279.html?spm=a2g0o.order_list.order_list_main.100.69bf5c5fVq2jw2&gatewayAdapt=glo2deu) | ✔ |
 | Can Cable | [Link](https://de.aliexpress.com/item/1005004819126687.html?spm=a2g0o.order_detail.order_detail_item.4.778a6368XgehZu&gatewayAdapt=glo2deu) | ✔ |
 | Wobble X (WS8) | [Link](https://de.aliexpress.com/item/1005004227149356.html?spm=a2g0o.order_detail.order_detail_item.7.778a6368XgehZu&gatewayAdapt=glo2deu) | ⚪ |
 | Stepper Heatpipes | [Link](https://de.aliexpress.com/item/4001018730764.html?spm=a2g0o.order_list.order_list_main.229.69bf5c5fVq2jw2&gatewayAdapt=glo2deu) | ⚪ |
