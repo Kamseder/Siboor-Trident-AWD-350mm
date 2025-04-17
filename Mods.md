@@ -47,10 +47,12 @@
 | Power Supply LRS-350-48 | [Link](https://www.amazon.de/dp/B0CF1ZL7C5?ref=ppx_yo2ov_dt_b_fed_asin_title) | ✔ |
 | Power Supply LRS-350-24 | [Link](https://www.amazon.de/dp/B0CS36TD16?ref=ppx_yo2ov_dt_b_fed_asin_title) | ✔ |
 | 2020 Cable Covers | [Link](https://de.aliexpress.com/item/1005003222704634.html?spm=a2g0o.order_list.order_list_main.23.69bf5c5fVq2jw2&gatewayAdapt=glo2deu) | ✔ |
-| Corner Brackets (2040) | [Link](https://de.aliexpress.com/item/1005002645302252.html?spm=a2g0o.order_list.order_list_main.106.69bf5c5fVq2jw2&gatewayAdapt=glo2deu) | ⚪ |
+| Corner Brackets (2040) | [Link](https://de.aliexpress.com/item/1005007576429091.html?spm=a2g0o.order_list.order_list_main.35.3ee65c5f73R73w&gatewayAdapt=glo2deu) | ✔ |
+| Bracket Screws M5x10mm | [Link](https://de.aliexpress.com/item/1005003114163703.html?spm=a2g0o.order_list.order_list_main.11.3ee65c5f73R73w&gatewayAdapt=glo2deu) | ✔ |
+| Bracket T-Nuts M5 | [Link](https://de.aliexpress.com/item/1005003678960619.html?spm=a2g0o.order_list.order_list_main.53.3ee65c5f73R73w&gatewayAdapt=glo2deu) | ✔ |
 | Grounding Extruder | -- | ✔ |
-| Buck Converter Neopixels | link comming Soon | ❌ |
-| X Beam | link comming Soon | ❌ |
+| Buck Converter Tobsun 15A | [Link](https://de.aliexpress.com/item/1005005029310035.html?spm=a2g0o.order_list.order_list_main.17.3ee65c5f73R73w&gatewayAdapt=glo2deu) | ⚪ |
+| X Beam | [Link](https://de.aliexpress.com/item/1005005603078879.html?spm=a2g0o.order_list.order_list_main.29.3ee65c5f73R73w&gatewayAdapt=glo2deu) | ✔ |
 | X Rail | link comming Soon | ❌ |
 
 
