@@ -26,6 +26,7 @@
 | Neopixel Holder | link comming Soon | ❌ | 
 | Panel Mounting | link comming Soon | ❌ |
 | Trident Crash Pads | [Link](https://github.com/Diyshift/3D-Printer/tree/main/Trident%20MGN9%20Crash%20Pads) | ❌ |
+| Other Toolhead | link comming Soon | ❌ |
 
 
 
