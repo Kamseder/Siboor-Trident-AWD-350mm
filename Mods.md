@@ -54,7 +54,7 @@
 | Grounding Extruder | -- | ✔ |
 | Buck Converter Tobsun 15A | [Link](https://de.aliexpress.com/item/1005005029310035.html?spm=a2g0o.order_list.order_list_main.17.3ee65c5f73R73w&gatewayAdapt=glo2deu) | ⚪ |
 | X Beam | [Link](https://de.aliexpress.com/item/1005005603078879.html?spm=a2g0o.order_list.order_list_main.29.3ee65c5f73R73w&gatewayAdapt=glo2deu) | ✔ |
-| Linear Rails | All Hiwin | ❌ |
+| Linear Rails | All HIWIN | ❌ |
 
 
 
