@@ -68,5 +68,6 @@
 | Recode everything | -- | ✔ |
 | Add Chamber Thermistor to Klipper Screen | -- | ✔ |
 | Spoolman | -- | ❌ |
+| TMC Autotune | [Link](https://github.com/andrewmcgr/klipper_tmc_autotune) | ❌ |
 
 
