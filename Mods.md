@@ -13,7 +13,7 @@
 | Motor Mount Back | link comming Soon | ✔ | 
 | Meanwell Terminal Cover | [Link](https://www.printables.com/model/834209-power-supply-cover?lang=de) | ✔ |
 | Meanwell Top Cover | [Link](https://www.printables.com/model/392418-mean-well-lrs-350-psu-lid-for-92mm-noctua-fan-92x9) | ✔ |
-| Canbus/PTFE Arm | [Link](https://www.printables.com/model/514848-cable-arm-for-vorontrident?lang=de) | ✔ | 
+| Canbus/PTFE Arm | [Link](https://www.printables.com/model/978123-voron-bowden-ptfe-tube-guide-arm-and-canbus-cable/files) | ✔ | 
 | Canbus/PTFE Clamp | [Link](https://www.printables.com/model/445945-voron-cable-clamp-umbilical-mod-canbus/files) | ✔ |
 | SB PG7 Mount | [Link](https://www.printables.com/model/964357-sb2209-sb2240-cw2-cable-bridge-pg7) | ✔ |
 | PTFE Guide | [Link](https://www.printables.com/model/460621-voron-trident-ptfe-guides) | ❌ | 
