@@ -55,6 +55,8 @@
 | Buck Converter Tobsun 15A | [Link](https://de.aliexpress.com/item/1005005029310035.html?spm=a2g0o.order_list.order_list_main.17.3ee65c5f73R73w&gatewayAdapt=glo2deu) | ⚪ |
 | X Beam | [Link](https://de.aliexpress.com/item/1005005603078879.html?spm=a2g0o.order_list.order_list_main.29.3ee65c5f73R73w&gatewayAdapt=glo2deu) | ✔ |
 | Linear Rails | All HIWIN | ✔ |
+| Hula Feet | [Link](https://de.aliexpress.com/item/1005007431126476.html?spm=a2g0o.order_list.order_list_main.51.48a15c5f3kvfOn&gatewayAdapt=glo2deu) | ⚪ |
+| Gates EPDM GT2 9mm | [Link](https://de.aliexpress.com/item/1005002307826257.html?spm=a2g0o.order_list.order_list_main.64.48a15c5f3kvfOn&gatewayAdapt=glo2deu) | ⚪ |
 
 
 
