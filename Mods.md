@@ -61,12 +61,12 @@
 
 
 ## ◼️ Fast Links Software
-### 🔳 Done | ❌ To Do
+### 🔳 Done | ⬜ To Do
 | Part | Link | Status |
 | ------------ | ----- | ----- |
 | Shaketune |  [Link](https://github.com/Frix-x/klippain-shaketune) | 🔳 |
 | Motorsync | [Link](https://github.com/MRX8024/motors-sync) | 🔳 |
-| Custom Start/Shutdown Logo | -- | 🔳 |
+| Custom Start/Shutdown Logo | -- | ⬜ |
 | Recode everything | -- | 🔳 |
 | Add Chamber Thermistor to Klipper Screen | -- | 🔳 |
 | Spoolman | -- | ⬜ |
