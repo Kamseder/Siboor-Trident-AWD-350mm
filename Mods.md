@@ -1,7 +1,7 @@
 # Siboor Trident AWD 350mm Mods
 
-## Fast Links Prints 
-### ✔ Done | ❌ Need to Print | ⚪ Need to Design
+## ◼️ Fast Links Prints 
+### 🔳 Done | ⬜ Need to Print | ⚪ Need to Design
 | Part | Link | Status |
 | ------------ | ----- | ----- | 
 | Clean Wire Cover Left/Right |  link comming Soon | ✔ |
@@ -15,8 +15,8 @@
 | Meanwell Top Cover | [Link](https://www.printables.com/model/392418-mean-well-lrs-350-psu-lid-for-92mm-noctua-fan-92x9) | ✔ |
 | Canbus/PTFE Arm | [Link](https://www.printables.com/model/514848-cable-arm-for-vorontrident?lang=de) | ✔ |  
 | Canbus/PTFE Clamp | [Link](https://www.printables.com/model/445945-voron-cable-clamp-umbilical-mod-canbus/files) | ✔ |
-| SB PG7 Mount | [Link](https://www.printables.com/model/964357-sb2209-sb2240-cw2-cable-bridge-pg7) | ✔ |
-| PTFE Guide | [Link](https://www.printables.com/model/460621-voron-trident-ptfe-guides) | ❌ | 
+| SB PG7 Mount | [Link](https://www.printables.com/model/964357-sb2209-sb2240-cw2-cable-bridge-pg7) | 🔳 |
+| PTFE Guide | [Link](https://www.printables.com/model/460621-voron-trident-ptfe-guides) | ⬜ | 
 | Nozzle Brush Holder | [Link](https://www.printables.com/model/806589-bambu-a1-silicone-nozzle-scrubber-mount-remix-voro) | ✔ | 
 | Nozzle Brush Arm | [Link](https://www.printables.com/model/298565-nozzle-scrubber-arm-extension-voron-trident) | ✔ | 
 | Nozzle Brush Bucket | [Link](https://www.printables.com/model/482581-purge-bucket-bin-for-use-with-nozzle-scrubber) | ✔ | 
@@ -30,7 +30,7 @@
 
 
 
-## Fast Links Hardware
+## ◼️ Fast Links Hardware
 ### ✔ Done | ❌ To Do | ⚪ Bought not Installed
 | Part | Link | Status |
 | ------------ | ----- | ----- | 
@@ -60,7 +60,7 @@
 
 
 
-## Fast Links Software
+## ◼️ Fast Links Software
 ### ✔ Done | ❌ To Do
 | Part | Link | Status |
 | ------------ | ----- | ----- |
