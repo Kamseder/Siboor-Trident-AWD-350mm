@@ -1,3 +1,2 @@
-Klick to find the Newest Config!
+# Klick [here](https://github.com/Kamseder/Siboor-Trident-AWD-350mm-Backup)to find the newest Config!
 
-https://github.com/Kamseder/Siboor-Trident-AWD-350mm-Backup
