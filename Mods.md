@@ -72,5 +72,6 @@
 | Spoolman | -- | ⬜ |
 | TMC Autotune | [Link](https://github.com/andrewmcgr/klipper_tmc_autotune) | 🔳 |
 | Auto Klipper Backup  | [Link](https://github.com/Staubgeborener/Klipper-Backup) or [Link](https://docs.vorondesign.com/community/howto/EricZimmerman/BackupConfigToGithub.html) | 🔳 |
+| Air Filter Timer  | [Link](https://github.com/blankhaus/klipper-filter_monitor) or [Link](https://github.com/MapleLeafMakers/KlipperMacros/blob/main/air_filter_timer.cfg) | ⬜ |
 
 
