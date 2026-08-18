@@ -22,11 +22,11 @@
 | Nozzle Brush Bucket | [Link](https://www.printables.com/model/482581-purge-bucket-bin-for-use-with-nozzle-scrubber) | 🔳 | 
 | Wobble X | [Link](https://www.printables.com/model/460649-voron-trident-front-wobblex-carriers/files) | ⬜ | 
 | Skirt Fan inner Cover | [Link](https://makerworld.com/en/models/424868-voron-logo-40mm-fan-grill-fan-protector#profileId-328560) | 🔳 | 
-| Stepper Fan Holder | link comming Soon | ⬜ | 
-| Neopixel Holder | link comming Soon | ⬜ | 
-| Panel Mounting | link comming Soon | ⬜ |
+| Stepper Fan Holder | link comming Soon | 🔳 | 
+| Neopixel Holder | link comming Soon | 🔳 | 
+| Panel Mounting | link comming Soon | 🔳 |
 | Trident Crash Pads | [Link](https://github.com/Diyshift/3D-Printer/tree/main/Trident%20MGN9%20Crash%20Pads) | ⬜ |
-| Other Toolhead | link comming Soon | ⬜ |
+| Other Toolhead | link comming Soon | 🔳 |
 
 
 
@@ -37,7 +37,7 @@
 | PTFE Tube ID3/OD4 | [Link](https://de.aliexpress.com/item/32890324491.html?spm=a2g0o.store_pc_home.promoteWysiwyg_501514054.32890324491&gatewayAdapt=glo2deu)  | 🔳 | 
 | Extruder Gears (Set3) |  [Link](https://de.aliexpress.com/item/1005005494849351.html?spm=a2g0o.order_list.order_list_main.93.69bf5c5fVq2jw2&gatewayAdapt=glo2deu) | 🔳 |
 | Nozzle Brush | [Link](https://de.aliexpress.com/item/1005007502073121.html?spm=a2g0o.order_list.order_list_main.271.69bf5c5fVq2jw2&gatewayAdapt=glo2deu) | 🔳 |
-| 370MM Neopixels RGB | [Link](https://de.aliexpress.com/item/1005006177060472.html?spm=a2g0o.order_detail.order_detail_item.9.778a6368XgehZu&gatewayAdapt=glo2deu) | ⚪ |
+| 370MM Neopixels RGB | [Link](https://de.aliexpress.com/item/1005006177060472.html?spm=a2g0o.order_detail.order_detail_item.9.778a6368XgehZu&gatewayAdapt=glo2deu) | 🔳 |
 | SB Neopixels | [Link](https://de.aliexpress.com/item/1005007646205279.html?spm=a2g0o.order_list.order_list_main.100.69bf5c5fVq2jw2&gatewayAdapt=glo2deu) | 🔳 |
 | Can Cable | [Link](https://de.aliexpress.com/item/1005004819126687.html?spm=a2g0o.order_detail.order_detail_item.4.778a6368XgehZu&gatewayAdapt=glo2deu) | 🔳 |
 | Wobble X (WS8) | [Link](https://de.aliexpress.com/item/1005004227149356.html?spm=a2g0o.order_detail.order_detail_item.7.778a6368XgehZu&gatewayAdapt=glo2deu) | ⚪ |
@@ -52,11 +52,11 @@
 | Bracket Screws M5x10mm | [Link](https://de.aliexpress.com/item/1005003114163703.html?spm=a2g0o.order_list.order_list_main.11.3ee65c5f73R73w&gatewayAdapt=glo2deu) | 🔳 |
 | Bracket T-Nuts M5 | [Link](https://de.aliexpress.com/item/1005003678960619.html?spm=a2g0o.order_list.order_list_main.53.3ee65c5f73R73w&gatewayAdapt=glo2deu) | 🔳 |
 | Grounding Extruder | -- | 🔳 |
-| Buck Converter Tobsun 15A | [Link](https://de.aliexpress.com/item/1005005029310035.html?spm=a2g0o.order_list.order_list_main.17.3ee65c5f73R73w&gatewayAdapt=glo2deu) | ⚪ |
+| Buck Converter Tobsun 15A | [Link](https://de.aliexpress.com/item/1005005029310035.html?spm=a2g0o.order_list.order_list_main.17.3ee65c5f73R73w&gatewayAdapt=glo2deu) | 🔳 |
 | X Beam | [Link](https://de.aliexpress.com/item/1005005603078879.html?spm=a2g0o.order_list.order_list_main.29.3ee65c5f73R73w&gatewayAdapt=glo2deu) | 🔳 |
 | Linear Rails | All HIWIN | 🔳 |
 | Hula Feet | [Link](https://de.aliexpress.com/item/1005007431126476.html?spm=a2g0o.order_list.order_list_main.51.48a15c5f3kvfOn&gatewayAdapt=glo2deu) | ⚪ |
-| Gates EPDM GT2 9mm | [Link](https://de.aliexpress.com/item/1005002307826257.html?spm=a2g0o.order_list.order_list_main.64.48a15c5f3kvfOn&gatewayAdapt=glo2deu) | ⚪ |
+| Gates EPDM GT2 9mm | [Link](https://de.aliexpress.com/item/1005002307826257.html?spm=a2g0o.order_list.order_list_main.64.48a15c5f3kvfOn&gatewayAdapt=glo2deu) | 🔳 |
 
 
 
