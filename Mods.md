@@ -24,7 +24,7 @@
 | Skirt Fan inner Cover | [Link](https://makerworld.com/en/models/424868-voron-logo-40mm-fan-grill-fan-protector#profileId-328560) | 🔳 | 
 | Stepper Fan Holder | link comming Soon | 🔳 | 
 | Neopixel Holder | link comming Soon | 🔳 | 
-| Panel Mounting | link comming Soon | 🔳 |
+| Panel Mounting | [Link](https://www.printables.com/model/172368-voron-24-filament-latch-or-any-2020-extrusion) | 🔳 |
 | Trident Crash Pads | [Link](https://github.com/Diyshift/3D-Printer/tree/main/Trident%20MGN9%20Crash%20Pads) | ⬜ |
 | Modded Archetype Toolhead | link comming Soon | 🔳 |
 
@@ -41,7 +41,7 @@
 | SB Neopixels | [Link](https://de.aliexpress.com/item/1005007646205279.html?spm=a2g0o.order_list.order_list_main.100.69bf5c5fVq2jw2&gatewayAdapt=glo2deu) | 🔳 |
 | Can Cable | [Link](https://de.aliexpress.com/item/1005004819126687.html?spm=a2g0o.order_detail.order_detail_item.4.778a6368XgehZu&gatewayAdapt=glo2deu) | 🔳 |
 | Wobble X (WS8) | [Link](https://de.aliexpress.com/item/1005004227149356.html?spm=a2g0o.order_detail.order_detail_item.7.778a6368XgehZu&gatewayAdapt=glo2deu) | ⚪ |
-| Stepper Heatpipes | [Link](https://de.aliexpress.com/item/4001018730764.html?spm=a2g0o.order_list.order_list_main.229.69bf5c5fVq2jw2&gatewayAdapt=glo2deu) | ⚪ |
+| Stepper Heatpipes | [Link](https://de.aliexpress.com/item/4001018730764.html?spm=a2g0o.order_list.order_list_main.229.69bf5c5fVq2jw2&gatewayAdapt=glo2deu) | 🔳 |
 | Pulleys | [Link](https://www.cr3d.de/produkt/2gt-pulleys-geklemmt/) | 🔳 |
 | Chamber Thermistor | [Link](https://www.amazon.de/dp/B07F3SMRLJ?ref=ppx_yo2ov_dt_b_fed_asin_title) | 🔳 |
 | Cable Sleeves (3mm/10mm) | [Link](https://www.amazon.de/dp/B08PFBZW9X?ref=ppx_yo2ov_dt_b_fed_asin_title) | 🔳 |
@@ -72,6 +72,6 @@
 | Spoolman | -- | ⬜ |
 | TMC Autotune | [Link](https://github.com/andrewmcgr/klipper_tmc_autotune) | 🔳 |
 | Auto Klipper Backup  | [Link](https://github.com/Staubgeborener/Klipper-Backup) or [Link](https://docs.vorondesign.com/community/howto/EricZimmerman/BackupConfigToGithub.html) | 🔳 |
-| Air Filter Timer  | [Link](https://github.com/blankhaus/klipper-filter_monitor) or [Link](https://github.com/MapleLeafMakers/KlipperMacros/blob/main/air_filter_timer.cfg) | ⬜ |
+| Air Filter Timer  | [Link](https://github.com/ressu/klipper-filter_monitor) | 🔳 |
 
 
