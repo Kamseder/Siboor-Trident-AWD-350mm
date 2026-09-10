@@ -4,13 +4,13 @@
 ### 🔳 Done | ⬜ Need to Print | ⚪ Need to Design
 | Part | Link | Status |
 | ------------ | ----- | ----- | 
-| Clean Wire Cover Left/Right |  link comming Soon | 🔳 |
-| Bed Fan Plug Cover | link comming Soon | 🔳 | 
-| PG7 Corner Bracket | link comming Soon | 🔳 | 
-| Thermistor Holder | link comming Soon | 🔳 | 
-| Motor Mount FL | link comming Soon | 🔳 | 
-| Motor Mount FR | link comming Soon | 🔳 | 
-| Motor Mount Back | link comming Soon | 🔳 | 
+| Clean Wire Cover Left/Right | [Link](https://www.printables.com/model/1511425-voron-trident-ak-stealth-wires-wire-cover-left) [Link](https://www.printables.com/model/1511428-voron-trident-ak-stealth-wires-wire-cover-right) | 🔳 |
+| Bed Fan Plug Cover | [Link](https://www.printables.com/model/1548355-voron-trident-ak-stealth-wires-siboor-blower-pcb-h) | 🔳 | 
+| PG7 Corner Bracket | [Link](https://www.printables.com/model/1099507-voron-trident-ak-stealth-wires-pg7-mount-bracket) | 🔳 | 
+| Thermistor Holder | [Link](https://www.printables.com/model/1547172-voron-trident-ak-stealth-wires-thermistor-mount) | 🔳 | 
+| Motor Mount FL | [Link](https://www.printables.com/model/1548432-voron-trident-ak-stealth-wires-inverted-electronic) | 🔳 | 
+| Motor Mount FR | [Link](https://www.printables.com/model/1548437-voron-trident-ak-stealth-wires-inverted-electronic) | 🔳 | 
+| Motor Mount Back | [Link](https://www.printables.com/model/1548439-voron-trident-ak-stealth-wires-inverted-electronic) | 🔳 | 
 | Meanwell Terminal Cover | [Link](https://www.printables.com/model/834209-power-supply-cover?lang=de) | 🔳 |
 | Meanwell Top Cover | [Link](https://www.printables.com/model/392418-mean-well-lrs-350-psu-lid-for-92mm-noctua-fan-92x9) | 🔳 |
 | Canbus/PTFE Arm | [Link](https://www.printables.com/model/514848-cable-arm-for-vorontrident?lang=de) | 🔳 |  
@@ -26,7 +26,7 @@
 | Neopixel Holder | link comming Soon | 🔳 | 
 | Panel Mounting | link comming Soon | 🔳 |
 | Trident Crash Pads | [Link](https://github.com/Diyshift/3D-Printer/tree/main/Trident%20MGN9%20Crash%20Pads) | ⬜ |
-| Other Toolhead | link comming Soon | 🔳 |
+| Modded Archetype Toolhead | link comming Soon | 🔳 |
 
 
 
